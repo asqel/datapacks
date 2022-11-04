@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "p*p",
+      "cbc",
+	  "sss"
+    ],
+    "key": {
+    		"s": {
+                "item": "minecraft:sandstone"
+        },
+        "b": {
+            "item": "minecraft:black_dye"
+    },
+    "c": {
+        "item": "minecraft:clay_ball"
+},
+"p":{
+    "item":"minecraft:purple_dye"
+},
+"*":{
+    "item":"minecraft:air"
+}
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
